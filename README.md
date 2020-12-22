@@ -1,2 +1,1 @@
-# paint.css
-Incorporate colors into all your elements easily with paint.css
+<img src="https://i.imgur.com/v7Kp28r.png"></img>
