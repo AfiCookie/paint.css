@@ -1,2 +1,2 @@
-<p align="center"> <img src="https://i.imgur.com/INil4nX.png"></img>
+<p align="center"> <img src="https://i.imgur.com/jr7EvCu.png"></img>
 </p>
