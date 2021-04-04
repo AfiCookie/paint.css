@@ -6,5 +6,5 @@ CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /
 ```
 | Color       | Class         |
 | ---         | ---           |
-| green1      | bg-green-5.   |
-| green2      | bg-green-10   |
+| green1      | bg-red-5.     |
+| green2      | bg-red-10     |
