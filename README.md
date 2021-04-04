@@ -12,8 +12,18 @@ CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /
 
 <table width="300">
   <tr>
-    <td> This is some text </td>
-    <td> This is some somewhat longer block of text </td>
-    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
   </tr>
-</table>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table> 
