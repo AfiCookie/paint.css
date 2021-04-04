@@ -8,5 +8,5 @@ CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /
 | Color                                                       | Class         |
 | ---                                                         | ---           |
 | <img width="45" src="https://i.imgur.com/JoWnqX6.png">      | bg-red-5      |
-| <img width="45" src="https://i.imgur.com/ucUilBc.png">      | bg-red-10     |
+| <img width="45" src="https://i.imgur.com/j4ICvK8.png">      | bg-red-10     |
 
