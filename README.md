@@ -6,5 +6,5 @@ CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /
 ```
 | Color                                                               | Class         |
 | ---                                                                 | ---           |
-| <img width="25" src="https://i.imgur.com/lNmjlgw.png">      | bg-red-5      |
-| <img width="25" src="https://i.imgur.com/lNmjlgw.png">      | bg-red-10     |
+| <img width="45" src="https://i.imgur.com/lNmjlgw.png">      | bg-red-5      |
+| <img width="45" src="https://i.imgur.com/lNmjlgw.png">      | bg-red-10     |
