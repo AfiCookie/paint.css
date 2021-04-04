@@ -7,6 +7,6 @@ CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /
 
 | Color                                                       | Class         | HEX           |
 | ---                                                         | ---           | ---           |
-| <img width="45" src="https://i.imgur.com/91TlDMf.png">      | bg-red-5      |               |
-| <img width="45" src="https://i.imgur.com/SpVf22g.png">      | bg-red-10     |               |
+| <img width="45" src="https://i.imgur.com/91TlDMf.png">      | bg-red-5      | #ffebee       |
+| <img width="45" src="https://i.imgur.com/SpVf22g.png">      | bg-red-10     | #ffcdd2       |
 
