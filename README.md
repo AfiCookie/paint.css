@@ -4,7 +4,7 @@
 ```css
 CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" />
 ```
-| Color       | Class         |
-| ---         | ---           |
-| green1      | bg-red-5      |
-| green2      | bg-red-10     |
+| Color                                                               | Class         |
+| ---                                                                 | ---           |
+|  <img class="rounded-2 " src="https://i.imgur.com/lNmjlgw.png">     | bg-red-5      |
+| <img class="rounded-2 " src="https://i.imgur.com/lNmjlgw.png">      | bg-red-10     |
