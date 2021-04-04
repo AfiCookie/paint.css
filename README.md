@@ -16,12 +16,12 @@ CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /
     <th>Lastname</th>
     <th>Age</th>
   </tr>
-  <tr>
+  <tr width="300">
     <td>Jill</td>
     <td>Smith</td>
     <td>50</td>
   </tr>
-  <tr>
+  <tr width="300">
     <td>Eve</td>
     <td>Jackson</td>
     <td>94</td>
