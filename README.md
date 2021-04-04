@@ -11,7 +11,7 @@ CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /
 | <img width="40" src="https://i.imgur.com/SpVf22g.png">      | bg-red-10     | #ffcdd2       | 255, 205, 210       |
 
 <table width="300">
-  <tr>
+  <tr width="300">
     <th>Firstname</th>
     <th>Lastname</th>
     <th>Age</th>
