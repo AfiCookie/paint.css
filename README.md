@@ -12,15 +12,3 @@ CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /
 
 
 
-<table width="300">
-  <tr>
-    <td> This is some text </td>
-    <td> This is some so of text </td>
-    <td> This is some very longer.  </td>
-  </tr>
-    <tr>
-    <td> This is some text </td>
-    <td> This is some somewext </td>
-    <td> This is some longer.  </td>
-  </tr>
-</table>
