@@ -1,6 +1,7 @@
-<p align="center"> <img class="rounded-2 " src="https://i.imgur.com/jr7EvCu.png"></kbd></p>
+<p align="center"> <img class="test" src="https://i.imgur.com/jr7EvCu.png"></kbd></p>
 
-<table><tr><td>
-    <img src="https://i.imgur.com/jr7EvCu.png" />
-</td></tr></table>
-
+<style>
+    .test {
+    border-radius: 10px;
+    }
+</style>
