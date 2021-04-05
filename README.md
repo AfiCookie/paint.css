@@ -12,20 +12,20 @@
 
 
 <h2>Use</h2>
-<p><em>Bacground Class Color's</em></p>
+<p><em>Text Class Color's</em></p>
 
 ```html
-<p class="bg-green-25 ...">
+<p class="text-gray-25 ...">
     
     🥰 Chocolate is my favourite thing in the world. 🍫
     
 </p>
 ```
 
-<p><em>Text Class Color's</em></p>
+<p><em>Bacground Class Color's</em></p>
 
 ```html
-<div class="text-gray-5 ...">
+<div class="bg-gray-5 ...">
   <h1>
     
     Nice colors ! 🌈
