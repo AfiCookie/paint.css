@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://i.imgur.com/q7CeTIy.png"> </p>
 
 ```css
-CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" />
+CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /> COMING SOON
 ```
 
 | Color                                                       | Class                | HEX                | RGB                       |
