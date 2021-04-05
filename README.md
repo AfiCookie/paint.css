@@ -27,4 +27,4 @@
 
 <h2>Sponsors</h2>
 <p>Special thanks to the following contributors for allowing the project to evolve:</p>
-<a align="left"> <img width="36" src="https://i.imgur.com/PNzGRIO.png"> </a>
+<a href="https://github.com/Cerium-Team" align="left"> <img width="36" src="https://i.imgur.com/PNzGRIO.png"> </a>
