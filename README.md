@@ -12,6 +12,14 @@
 
 
 <h2>Use</h2>
+<p><em>Dropdown/Modal</em></p>
+```html
+<div>
+  <h1>
+    Chocolate is my favourite thing in the world. 🍫
+  </h1>
+</div>
+```
 
 
 
