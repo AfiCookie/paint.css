@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://i.imgur.com/q7CeTIy.png"> </p>
 
-CDN: 
+` CDN: `
 ```css
 <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /> COMING SOON
 ```
