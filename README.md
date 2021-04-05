@@ -24,7 +24,7 @@
 </div>
 ```
 
-<p><em>Bacground Class Color's</em></p>
+<p><em>Text Class Color's</em></p>
 
 ```html
 <div class="text-gray-5 ...">
