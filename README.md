@@ -1,6 +1,8 @@
 
 <p align="center"> <img src="https://i.imgur.com/caJNU2a.png"> </p>
 
+<p align="center"> <img src="https://i.imgur.com/9XFjbXl.png"> </p>
+
 ```css
 CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" />
 ```
