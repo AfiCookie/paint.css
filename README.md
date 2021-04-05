@@ -15,9 +15,9 @@
 <p><em>Dropdown/Modal</em></p>
 
 ```html
-<div>
+<div class="bg-green-25">
   <h1>
-    Chocolate is my favourite thing in the world. 🍫
+    🥰 Chocolate is my favourite thing in the world. 🍫
   </h1>
 </div>
 ```
