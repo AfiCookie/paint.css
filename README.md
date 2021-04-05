@@ -3,8 +3,9 @@
 
 <p align="center"> <img src="https://i.imgur.com/q7CeTIy.png"> </p>
 
+CDN: 
 ```css
-CDN: <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /> COMING SOON
+<link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /> COMING SOON
 ```
 
 | Color                                                       | Class                | HEX                | RGB                       |
