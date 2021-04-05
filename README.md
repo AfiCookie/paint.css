@@ -12,7 +12,7 @@
 
 
 <h2>Use</h2>
-<p><em>Dropdown/Modal</em></p>
+<p><em>Bacground Class Color's</em></p>
 
 ```html
 <div class="... bg-green-25 ...">
