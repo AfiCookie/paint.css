@@ -15,13 +15,11 @@
 <p><em>Bacground Class Color's</em></p>
 
 ```html
-<div class="bg-green-25 ...">
-  <h1>
+<p class="bg-green-25 ...">
     
     🥰 Chocolate is my favourite thing in the world. 🍫
     
-  </h1>
-</div>
+</p>
 ```
 
 <p><em>Text Class Color's</em></p>
