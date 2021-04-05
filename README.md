@@ -15,7 +15,7 @@
 <p><em>Bacground Class Color's</em></p>
 
 ```html
-<div class="... bg-green-25 ...">
+<div class="bg-green-25 ...">
   <h1>
     
     🥰 Chocolate is my favourite thing in the world. 🍫
@@ -24,7 +24,17 @@
 </div>
 ```
 
+<p><em>Bacground Class Color's</em></p>
 
+```html
+<div class="text-gray-5 ...">
+  <h1>
+    
+    Nice colors ! 🌈
+    
+  </h1>
+</div>
+```
 
 <h2>All Colors</h2>
 
