@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://i.imgur.com/q7CeTIy.png"> </p>
 
 <p><strong>From CDN:</strong> Add the following script to the end of your <code>&lt;head&gt;</code> section.</p>
+
 ```css
 <link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" />
 ```
