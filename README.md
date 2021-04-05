@@ -5,7 +5,7 @@
 
 ` CDN: `
 ```css
-<link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" /> COMING SOON
+<link rel="stylesheet" href="paintcss.cerium.xyz" crossorigin="anonymous" />
 ```
 
 | Color                                                       | Class                | HEX                | RGB                       |
