@@ -22,7 +22,7 @@
 </p>
 ```
 
-<p><em>Bacground Class Color's</em></p>
+<p><em>Background Class Color's</em></p>
 
 ```html
 <div class="bg-gray-5 ...">
